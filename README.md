@@ -1,7 +1,10 @@
 # FinchRaspberryPi
 
+pip install pybluez
+
 python finch_control_birdbrain_bt.py
 
+# For Pose Detection
 pip install tflite_runtime
 pip install opencv-python-headless
 pip install numpy
